@@ -1,0 +1,26 @@
+id,name,fitness_status,job_cards_open,branding_hours,mileage_km,cleaning_status,stabling_position,status
+Rake-01,Rake-01,Expired,3,52,92798,Pending,15,Standby
+Rake-02,Rake-02,Valid,0,91,19268,Complete,15,Standby
+Rake-03,Rake-03,Expired,0,263,284329,In Progress,10,Standby
+Rake-04,Rake-04,Expired,2,34,204776,In Progress,13,Maintenance
+Rake-05,Rake-05,Valid,2,205,227851,Pending,19,Standby
+Rake-06,Rake-06,Valid,1,80,246584,Complete,7,Maintenance
+Rake-07,Rake-07,Expired,3,49,48044,In Progress,17,Ready
+Rake-08,Rake-08,Expiring,3,1,58984,Pending,20,Maintenance
+Rake-09,Rake-09,Expired,2,53,274712,In Progress,4,Standby
+Rake-10,Rake-10,Expired,3,105,130151,In Progress,5,Ready
+Rake-11,Rake-11,Expired,3,259,143767,Complete,23,Ready
+Rake-12,Rake-12,Expired,0,190,134375,In Progress,7,Ready
+Rake-13,Rake-13,Valid,2,217,189262,Complete,13,Maintenance
+Rake-14,Rake-14,Expired,4,43,146330,In Progress,15,Standby
+Rake-15,Rake-15,Expiring,2,161,174231,Pending,11,Ready
+Rake-16,Rake-16,Valid,4,201,23986,In Progress,4,Ready
+Rake-17,Rake-17,Expiring,0,269,71858,Complete,13,Ready
+Rake-18,Rake-18,Expiring,1,270,139312,Complete,7,Maintenance
+Rake-19,Rake-19,Expiring,3,214,22666,Pending,19,Maintenance
+Rake-20,Rake-20,Expiring,0,251,144633,In Progress,22,Standby
+Rake-21,Rake-21,Valid,3,189,298998,In Progress,2,Maintenance
+Rake-22,Rake-22,Valid,1,295,114488,Pending,10,Ready
+Rake-23,Rake-23,Expiring,1,212,193323,In Progress,13,Standby
+Rake-24,Rake-24,Expiring,0,207,294806,In Progress,25,Ready
+Rake-25,Rake-25,Valid,1,236,280536,Complete,21,Ready
